@@ -4,7 +4,7 @@
     "slug": "presente-mae",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/iconApp.png",
+    "icon": "./assets/images/iconeApp.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
