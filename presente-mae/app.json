@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "presente-mae",
+    "name": "presentinho da Tata",
     "slug": "presente-mae",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/images/iconApp.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
